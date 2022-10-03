@@ -6,7 +6,6 @@
 # - [2, 3, 5, 6] => [12, 15]
 
 myList = list(map(int, input("Введите числа через пробел ").split()))
-print()
 
 
 def productPairsNumbers(myList):
